@@ -1,0 +1,16 @@
+﻿  Bullet.cpp
+  Collidable.cpp
+  InvaderManager.cpp
+C:\Uni\OOP\SFML_Template\SpaceInvaderProject\SpaceInvaderProject\src\InvaderManager.cpp(149,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Invaders.cpp
+  Player.cpp
+  Shield.cpp
+  Source.cpp
+C:\Uni\OOP\SFML_Template\SpaceInvaderProject\SpaceInvaderProject\src\InvaderManager.cpp(151,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Uni\OOP\SFML_Template\SpaceInvaderProject\SpaceInvaderProject\src\Source.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Uni\OOP\SFML_Template\SpaceInvaderProject\SpaceInvaderProject\src\Source.cpp(38,61): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Uni\OOP\SFML_Template\SpaceInvaderProject\SpaceInvaderProject\src\Source.cpp(41,67): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Uni\OOP\SFML_Template\SpaceInvaderProject\SpaceInvaderProject\src\Source.cpp(44,80): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+C:\Uni\OOP\SFML_Template\SpaceInvaderProject\SpaceInvaderProject\src\Source.cpp(46,74): warning C4390: ';': empty controlled statement found; is this the intent?
+  SpaceInvaderProject.vcxproj -> C:\Uni\OOP\SFML_Template\SpaceInvaderProject\Debug\SpaceInvaderProject.exe
